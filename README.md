@@ -83,3 +83,11 @@ Soy de Peru y soy una desarrolladora web, apacionada con lo que es la parte fron
     </td>
   </tr>
 </table>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yerti)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerti&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerti&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
