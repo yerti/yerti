@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="" width="622"/>
+  <img src="./images/logo_white.svg" width="622"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/yerti/">
@@ -7,6 +7,6 @@
     </a>
   </div>
   <h1>
-    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ruben!
+    ¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, soy yerti!
   </h1>
 </div>
