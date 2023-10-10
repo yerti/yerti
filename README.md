@@ -10,3 +10,17 @@
     ¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, soy yerti!
   </h1>
 </div>
+
+---
+
+### :man_technologist: Acerca de mí:
+
+Soy de Peru y soy una desarrolladora web, apacionada con lo que es la parte frontend y tambien con conociemmientos de backend y base de datos.
+
+- :memo: Soy estudiante de Desarrollo Web Full Stack en Holberton School.
+
+- :monocle_face: Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
+
+:seedling: Aprendiendo nuevos lenguajes y nuevas tecnologías.
+
+:technologist: Actualmente estoy disponible para cualquier oferta de trabajo dedicada al desarrollo web.
